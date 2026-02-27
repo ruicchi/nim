@@ -42,7 +42,7 @@ export const PROJECTS: Project[] = [
     description: 'Match 2 card game, with galaxy theme!',
     link: 'https://github.com/ruicchi/matching-stars',
     video:
-      'https://res.cloudinary.com/dfz0pi0zy/video/upload/v1770973467/Match_2_video_lgkoqg.mp4',
+      'https://res.cloudinary.com/dfz0pi0zy/video/upload/v1772182006/Match_2_video_j9hqfh.mp4',
     id: 'project2',
   },
   {
