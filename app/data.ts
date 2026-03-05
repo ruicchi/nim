@@ -98,6 +98,13 @@ export const BLOG_POSTS: BlogPost[] = [
     link: '/blog/what-i-learned-from-my-first-three-years-of-college',
     uid: 'blog-2',
   },
+  {
+    title: 'How a game changed my perception of life',
+    description:
+      'The "point-and-click" game',
+    link: '/blog/how-a-game-changed-my-perception-of-life',
+    uid: 'blog-3',
+  },
 ]
 
 export const SOCIAL_LINKS: SocialLink[] = [
