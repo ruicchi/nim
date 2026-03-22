@@ -34,7 +34,7 @@ export const PROJECTS: Project[] = [
       'An automata theory based general programming language.',
     link: 'https://github.com/marianoluiz/chungus-lang',
     video:
-      '//TODO',
+      'https://res.cloudinary.com/dfz0pi0zy/video/upload/v1774178142/chungus_lang_finalest_i6lajv.mp4',
     id: 'project1',
   },
   {
